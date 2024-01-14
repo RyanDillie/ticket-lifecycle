@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Open osTicket
 - Select Open a New Ticket
-  - Email Address: <a href='#' style='text-decoration: none; color:#000000'>karen@osTicket.com</a>
+  - Email Address: karen@osTicket.com
   - Name: Karen Karen
   - Help Topic Dropdown Menu: Business Critical Outage
     - Issue Summary: Entire mobile online banking is down
